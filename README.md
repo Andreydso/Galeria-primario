@@ -1,2 +1,2 @@
 # Galeria-primario
-galeria do minecraft
+Galeria de Arte do meu Primário!
